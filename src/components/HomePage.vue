@@ -78,7 +78,7 @@
             <!-- Icon made by Freepik perfect from www.flaticon.com -->
             <img src="../assets/weightrack.png" height="320" class="m-4">
             <h5 class="ml-md-4 mr-md-4">
-              Manage your weight rack inventory.
+              Manage your weight rack inventory by entering number of available plates by weight.
               We make it easy to load your barbell using your weight rack,
               giving you more time to focus on your lifts!
             </h5>
