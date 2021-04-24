@@ -1,0 +1,16 @@
+108  ls -alrt /usr/local/bin/n*
+109  npm i bootstrap jquery popper.js
+110  atom .
+111  which atom
+112  ls -alrt /usr/local/bin/atom
+113  echo $PATH
+114  atom
+115  atom .
+116  history
+117  npm i -g firebase-tools
+118  npm install firebase --save
+119  c
+120  clear
+121  firebase login
+122  firebase init
+123  npm i vuefire
