@@ -23,5 +23,7 @@ export default {
 .full-height {
   min-height: 100vh
 }
-
+.animate {
+      transition: all 0.5s;
+    }
 </style>
